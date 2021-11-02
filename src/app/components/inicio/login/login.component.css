@@ -1,8 +1,8 @@
 .container {
+min-height: 100vh;
 display: flex;
 justify-content: center;
 align-items: center;
-min-height: 100vh;
 margin: auto;
 }
 
@@ -14,5 +14,14 @@ font-size: 2.3em;
 .btn-login {
     background-color: red;
     border-color: red;
+    margin: 10px;
+    padding: 1rem 2 rem;
+    border-radius: 100px;
 }
+
+.btn-volver {
+    border-radius: 100px;
+}
+
+
 
