@@ -1,0 +1,17 @@
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+margin: auto;
+}
+
+h3 {
+    font-family: 'Zen Antique', serif;
+font-size: 2.3em;
+}
+
+.btn-login {
+    background-color: red;
+    border-color: red;
+}
